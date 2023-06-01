@@ -27,6 +27,6 @@ git checkout tags/(nombre del tag)    -> devuelve la cabeza al tag seleccionado
 git branch ____  -> en el espacio en blanco se pone el nombre de la nueva rama que queremos crear
 git switch _____   _> en el espacio se pone el nombre de la rama para cambiar 
 
-probando Github
+probando Github hola Cristhian 
 
 '''
